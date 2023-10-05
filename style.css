@@ -1,0 +1,61 @@
+body {
+	background-image:  url("black.png");
+	text-align: justify;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+#tarolo{
+	margin: auto;
+	width: 90%;
+	max-width: 900px;
+	padding: 10px;
+	height: 100%;
+}
+.nav li {
+	list-style-type: none;
+}
+.nav ul {
+	padding: 0;
+}
+.nav a {
+	text-decoration: none;
+}
+.nav a:hover {
+	color: orange;
+}
+.nav a:active {
+	background-color: orange;
+}
+.nav {
+	font-weight: bold;
+}
+.nav {
+	background-color: grey;
+}
+#tartalom {
+	background-color: lightgray;
+	padding: 20px
+}
+.fejlec {
+	width: 100%;
+}
+#elsokep {
+	float: right;
+	width: 300px;
+}
+#torles {
+	clear: both;
+	text-align: center;
+}
+
+#masodik {
+  list-style-type: square;
+}
+#fejlec {
+	margin: 0;
+	padding: 0;
+}
+.nav {
+	margin: 0;
+	padding: 0;
+}
